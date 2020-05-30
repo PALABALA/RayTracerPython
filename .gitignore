@@ -1,0 +1,3 @@
+*.ppm
+env/
+.DS_Store
